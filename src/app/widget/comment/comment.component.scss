@@ -1,0 +1,13 @@
+:host{
+    app-user{
+        .avatar{
+            height: 32px;
+            width: 32px;
+        }
+        .info{
+            small, strong{
+                line-height: 16px;
+            }
+        }
+    }
+}
